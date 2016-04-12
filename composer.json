@@ -1,0 +1,6 @@
+{
+    "name": "root/www",
+    "require": {
+        "sendgrid/sendgrid": "~4.0"
+    }
+}
